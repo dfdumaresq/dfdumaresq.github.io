@@ -3,9 +3,9 @@ layout: default
 title: "Home"
 ---
 
-# Dave Dumaresq
+# David F. Dumaresq
 
-Software engineer and AI safety researcher at SFU.  
+Senior Software engineer and AI Safety Researcher.  
 Thirty-plus years building backend systems and, more recently, working on AI safety, interpretability, and governance tools.
 
 ## Current focus
