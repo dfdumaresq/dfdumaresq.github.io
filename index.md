@@ -5,14 +5,24 @@ title: "Home"
 
 # David F. Dumaresq
 
-Senior Software engineer and AI Safety Researcher.  
-Thirty-plus years building backend systems and, more recently, working on AI safety, interpretability, and governance tools.
+I’m David F. Dumaresq (Dave), a software engineer on the API team at EducationPlannerBC and a member of the faculty association at Simon Fraser University. I have over 30 years of experience designing and building backend systems. My current independent work focuses on AI safety, including agent fingerprinting, model evaluations, and governance tooling.
 
-## Current focus
+## Current work
 
-- AI safety projects: AI fingerprinting, agent evaluations, and governance tooling.
-- Teaching and mentoring on transformative AI, RLHF, and robust agents.
-- Connecting software engineering practice with safety and reliability concerns.
+At **EducationPlannerBC**, I help improve and maintain services that connect people to education and career opportunities through information, support, and technology.[page:0] The EPBC website is home to B.C.’s provincial post-secondary application service and resources that let students explore programs, admission requirements, and financial aid, and apply to any of the 25 public post-secondary institutions in the province.[page:0] On the API team, I work on backend services that support these application and information flows.
+
+Separately from my work at EPBC, I pursue projects in AI safety, including AI agent fingerprinting, evaluation tooling, and related research collaborations.
+
+## Writing and creative work
+
+I’m also a published author and playwright. My work includes:
+
+- **The Shame Game** – a published book exploring themes of shame and personal transformation.
+- **Essays on AI and faith** – two published pieces examining how AI intersects with religious imagination and moral responsibility.
+- **Stage plays on AI safety** – three plays exploring the ethical tipping points of exponential AI, the societal impacts of automation, and the blurring lines between human and machine intelligence.
+  - Most recently: *The Golden Goose is Near*, available from major booksellers. [Read more ›](https://www.barnesandnoble.com/w/the-golden-goose-is-near-david-f-dumaresq/1146212559)[cite:11][web:121]
+
+These projects sit alongside my technical work and reflect a long‑running interest in how people make sense of powerful technologies, not just how we build them.
 
 ## Selected projects
 
