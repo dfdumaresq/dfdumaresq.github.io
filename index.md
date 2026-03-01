@@ -72,10 +72,10 @@ Stage play work supported by AI for dramaturgy and iteration.
 - Links: [Indigo Listing](https://www.indigo.ca/en-ca/the-golden-goose-is-near-stageplay/5bbfc8b7-3ad3-395f-ac44-3fee26eb1fa9.html)
 
 
-## Work, teaching, and research
+## Work and research
 
-- Faculty at Simon Fraser University (SFU), teaching and mentoring in software engineering and AI-related topics.
-- Completed and taught AI safety coursework, including RLHF, interpretability, robust agents, and evaluations.
+- Previously worked as a Software Engineer on the AI-driven "Project DOCENT" at Simon Fraser University (1989-1991), implementing graphical knowledge representation in Prolog.
+- Completed BlueDot Impact's "Technical AI Safety" and "Intro to Transformative AI" courses.
 - Ongoing work on backend resilience, caching, and verification patterns.
 
 For a detailed view of my professional background, please see my [Resume](/Resume.pdf).
