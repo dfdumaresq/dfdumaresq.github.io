@@ -5,7 +5,7 @@ title: "Home"
 
 # David F. Dumaresq
 
-I’m David F. Dumaresq (Dave), a software engineer on the API team at EducationPlannerBC and a member of the faculty association at Simon Fraser University. I have over 30 years of experience designing and building backend systems. My current independent work focuses on AI safety, including agent fingerprinting, model evaluations, and governance tooling.
+I’m David F. Dumaresq (Dave), a senior software engineer transitioning 30+ years of experience—from 1980s expert systems to modern provincial infrastructure—into technical AI safety and alignment. I am currently on the API team at EducationPlannerBC and am a member of the faculty association at Simon Fraser University. My independent work focuses on AI steerability, agent fingerprinting, model evaluations, and governance tooling.
 
 ## Current work
 
@@ -28,19 +28,20 @@ These projects sit alongside my technical work and reflect a long‑running inte
 
 ### AI Fingerprint
 
-A project exploring ways to identify and verify AI-generated behavior and artifacts to support governance and accountability.
+A project exploring ways to identify and verify AI-generated behavior and artifacts to support governance and accountability in multi‑agent AI ecosystems.[cite:1][web:117][web:119]
 
-- Focus: AI agent fingerprinting, evaluations, and safety tooling.
-- Role: Concept, design, and implementation.
-- Links: <!-- TODO: add GitHub or docs links -->
+- Focus: AI agent fingerprinting to mitigate Sybil attacks and detect model substitution in deployed agents.[cite:1][web:117][web:119]
+- Role: Architected and built an immutable registry (Ethereum/Solidity) for AI agent identity and provenance.[cite:1][web:117]
+- Links: [GitHub repo](https://github.com/dfdumaresq/Fingerprint)[web:117]
+
 
 ### Virtues AI
 
 An experiment in framing AI system behavior and evaluation around virtue-ethics-inspired principles.
 
-- Focus: AI behavior evaluation & alignment concepts.
-- Role: Design, prototyping, and evaluation.
-- Links: <!-- TODO: add links -->
+- Focus: AI behavior evaluation and active refusal of unethical premises.
+- Role: Fine-tuned Llama-3.2-1B-Instruct to promote virtues like honesty over neutral engagement. Overcame stability challenges for training on Apple Silicon.
+- Links: [GitHub repo](https://github.com/dfdumaresq/virtue-ai)
 
 ### Kaggle: Deep Past
 
@@ -50,12 +51,15 @@ Applied machine learning to historical or archaeological-style data (Kaggle proj
 - Role: End-to-end modeling and analysis.
 - Links: <!-- TODO: add Kaggle link -->
 
-### Swiss lakes munitions proposal
+### Operation Alpine Recovery
 
-Used AI tools to support a proposal on removing legacy munitions from Swiss lakes.
+**Operation Alpine Recovery** was a proposal developed for an idea competition launched by armasuisse to address the long-standing issue of submerged military munitions in Swiss Alpine lakes. Between 1918 and 1964, more than 12,000 tonnes of unused ammunition were disposed of in lakes including Thun, Lucerne, and Brienz, where they remain at depths of up to 220 metres.
 
-- Focus: Research synthesis, scenario analysis, and communication.
-- Role: Authoring, modeling scenarios, and drafting materials.
+The project outlined a phased, environmentally responsible concept combining high-resolution mapping, underwater robotics, and controlled encapsulation methods designed to minimize sediment disturbance and ecological impact. Rather than proposing immediate deployment, the submission positioned itself as a technical and research-oriented framework to inform future feasibility studies or pilot initiatives.
+
+Developed by a small interdisciplinary team, the completed proposal attracted preliminary interest from Canadian industry representatives willing to supply relevant survey and robotics equipment and was submitted ahead of the February 2025 competition deadline.
+
+- Role: Team Lead
 - Links: <!-- TODO: add PDF or writeup -->
 
 ### Stage play: *The Golden Goose is Near*
@@ -64,7 +68,7 @@ Stage play work supported by AI for dramaturgy and iteration.
 
 - Focus: Story structure, dialogue exploration, and thematic development.
 - Role: Playwright; used AI as a creative assistant.
-- Links: <!-- TODO: add script or info link -->
+- Links: [Indigo Listing](https://www.indigo.ca/en-ca/the-golden-goose-is-near-stageplay/5bbfc8b7-3ad3-395f-ac44-3fee26eb1fa9.html)
 
 ## Work, teaching, and research
 
@@ -72,7 +76,7 @@ Stage play work supported by AI for dramaturgy and iteration.
 - Completed and taught AI safety coursework, including RLHF, interpretability, robust agents, and evaluations.
 - Ongoing work on backend resilience, caching, and verification patterns.
 
-For a more detailed view, see my CV: <!-- TODO: add CV PDF link -->
+For a detailed view of my professional background, please see my [Resume](/Resume.pdf).
 
 ## For collaborators
 
@@ -86,7 +90,6 @@ feel free to reach out.
 
 ## Contact and links
 
-- Email: <!-- TODO: add email or contact form link -->
-- GitHub: <!-- TODO: add GitHub profile -->
-- SFU profile: <!-- TODO: add SFU link -->
-- Other links: <!-- TODO: add LinkedIn, Google Scholar, etc. -->
+- Email: [dave@duvon.org](mailto:dave@duvon.org)
+- GitHub: [dfdumaresq](https://github.com/dfdumaresq)
+- LinkedIn: [davedumaresq](https://www.linkedin.com/in/davedumaresq/)
