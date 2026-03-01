@@ -54,15 +54,11 @@ Applied machine learning to historical or archaeological-style data (Kaggle proj
 - Role: End-to-end modeling and analysis.
 - Links: <!-- TODO: add Kaggle link -->
 
-
 ### Operation Alpine Recovery
 
-**Operation Alpine Recovery** was a proposal developed for an idea competition launched by armasuisse to address the long-standing issue of submerged military munitions in Swiss Alpine lakes. Between 1918 and 1964, more than 12,000 tonnes of unused ammunition were disposed of in lakes including Thun, Lucerne, and Brienz, where they remain at depths of up to 220 metres.
+A proposal for an armasuisse idea competition to address submerged military munitions in Swiss Alpine lakes. It outlined a phased, environmentally responsible concept using high‑resolution mapping, underwater robotics, and controlled encapsulation to minimize ecological impact. The framework was intended to inform future feasibility studies and pilot projects and drew preliminary interest from Canadian survey and robotics partners.
 
-The project outlined a phased, environmentally responsible concept combining high-resolution mapping, underwater robotics, and controlled encapsulation methods designed to minimize sediment disturbance and ecological impact. Rather than proposing immediate deployment, the submission positioned itself as a technical and research-oriented framework to inform future feasibility studies or pilot initiatives.
-
-Developed by a small interdisciplinary team, the completed proposal attracted preliminary interest from Canadian industry representatives willing to supply relevant survey and robotics equipment and was submitted ahead of the February 2025 competition deadline.
-
+- Why it matters: Shows how technical framing and scenario design can help address slow‑burn environmental hazards and high‑stakes remediation.
 - Role: Team Lead
 - Links: <!-- TODO: add PDF or writeup -->
 
