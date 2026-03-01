@@ -60,7 +60,7 @@ A proposal for an armasuisse idea competition to address submerged military muni
 
 - Why it matters: Shows how technical framing and scenario design can help address slow‑burn environmental hazards and high‑stakes remediation.
 - Role: Team Lead
-- Links: <!-- TODO: add PDF or writeup -->
+- Links: [Operation Alpine Recovery Proposal (PDF)](/Operation_Alpine_Recovery_Expanded_Academic.pdf)
 
 ### Stage play: *The Golden Goose is Near*
 
