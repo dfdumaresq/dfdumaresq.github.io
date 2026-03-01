@@ -88,7 +88,7 @@ My interest in AI predates the current deep learning wave and runs alongside ong
 - Completed BlueDot Impact's "Technical AI Safety" and "Intro to Transformative AI" courses.
 - Ongoing work on backend resilience, caching, and verification patterns.
 
-For a detailed view of my professional background, please see my [Resume](/Resume.pdf).
+For a detailed view of my professional background, please see my [Resume](/David%20F.%20Dumaresq.pdf).
 
 ## For collaborators
 
