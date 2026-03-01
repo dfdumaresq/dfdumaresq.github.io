@@ -104,4 +104,4 @@ feel free to reach out.
 
 - Email: [dfdumaresq@gmail.com](mailto:dfdumaresq@gmail.com)
 - GitHub: [dfdumaresq](https://github.com/dfdumaresq)
-- LinkedIn: [davedumaresq](https://www.linkedin.com/in/dave-dumaresq/)
+- LinkedIn: [dave-dumaresq](https://www.linkedin.com/in/dave-dumaresq/)
