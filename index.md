@@ -5,11 +5,12 @@ title: "Home"
 
 # David F. Dumaresq
 
-I’m David F. Dumaresq (Dave), a senior software engineer transitioning 30+ years of experience—from 1980s expert systems to modern provincial infrastructure—into technical AI safety and alignment. I  currently work on the API team at EducationPlannerBC and am a member of the faculty association at Simon Fraser University. My independent work focuses on AI steerability, agent fingerprinting, model evaluations, and governance tooling.
+I’m David F. Dumaresq (Dave), a senior software engineer transitioning 30+ years of experience—from 1980s expert systems to modern provincial infrastructure—into technical AI safety and alignment. I currently work on the API team at EducationPlannerBC and am a member of the faculty association at Simon Fraser University. My independent work focuses on AI steerability, agent fingerprinting, model evaluations, and governance tooling, building on decades of experience designing and operating real‑world systems.[file:143]
 
 ## Current work
 
-At **EducationPlannerBC**, I help improve and maintain services that connect people to education and career opportunities through information, support, and technology.[page:0] The EPBC website is home to B.C.’s provincial post-secondary application service and resources that let students explore programs, admission requirements, and financial aid, and apply to any of the 25 public post-secondary institutions in the province.[page:0] On the API team, I work on backend services that support these application and information flows.
+At **EducationPlannerBC**, I help improve and maintain services that connect people to education and career opportunities through information, support, and technology.[page:0] The site is home to B.C.’s provincial post-secondary application service and resources that let students explore programs, admission requirements, and financial aid, and apply to any of the 25 public post-secondary institutions in the province.[page:0] On the API team, I focus on backend services that support these application and information flows.[file:143]
+
 
 Separately from my work at EPBC, I pursue projects in AI safety, including AI agent fingerprinting, evaluation tooling, and related research collaborations.
 
@@ -32,9 +33,9 @@ These projects sit alongside my technical work and reflect a long‑running inte
 
 A project exploring ways to identify and verify AI-generated behavior and artifacts to support governance and accountability in multi‑agent AI ecosystems.[cite:1][web:117][web:119]
 
-- Focus: AI agent fingerprinting to mitigate Sybil attacks and detect model substitution in deployed agents.[cite:1][web:117][web:119]
-- Role: Architected and built an immutable registry (Ethereum/Solidity) for AI agent identity and provenance.[cite:1][web:117]
-- Links: [GitHub repo](https://github.com/dfdumaresq/Fingerprint)[web:117]
+- Focus: AI agent fingerprinting to mitigate Sybil attacks and detect model substitution in deployed agents.
+- Role: Project Lead and Architect for an immutable registry (Ethereum/Solidity) for AI agent identity and provenance.
+- Links: [GitHub repo](https://github.com/dfdumaresq/Fingerprint)
 
 
 ### Virtues AI
@@ -42,7 +43,7 @@ A project exploring ways to identify and verify AI-generated behavior and artifa
 An experiment in framing AI system behavior and evaluation around virtue-ethics-inspired principles.
 
 - Focus: AI behavior evaluation and active refusal of unethical premises.
-- Role: Fine-tuned Llama-3.2-1B-Instruct to promote virtues like honesty over neutral engagement. Overcame stability challenges for training on Apple Silicon.
+- Role: Designed and fine‑tuned Llama‑3.2‑1B‑Instruct to promote virtues like honesty over neutral engagement, resolving stability issues on Apple Silicon.
 - Links: [GitHub repo](https://github.com/dfdumaresq/virtue-ai)
 
 ### Kaggle: Deep Past
@@ -52,14 +53,24 @@ Applied machine learning to historical or archaeological-style data (Kaggle proj
 - Why it matters: Demonstrated an end‑to‑end ML workflow on noisy, real‑world data, from feature engineering to evaluation, under leaderboard pressure.
 - Focus: Practical ML pipeline, feature engineering, evaluation.
 - Role: End-to-end modeling and analysis.
-- Links: <!-- TODO: add Kaggle link -->
+- Links: [Deep Past Challenge - Translate Akkadian to English](https://www.kaggle.com/competitions/deep-past-initiative-machine-translation/overview)
+
+### Kaggle: Novel Analysis with Gemini
+
+Exploratory notebook for the **Gemini – Long Context** competition, using Gemini 1.5 to analyze a corpus of science‑fiction novels.[web:145][web:146]
+
+- Why it matters: Demonstrates how long‑context LLMs can be used for large‑scale literary analysis and comparison, going beyond small excerpts to reason over entire books.[web:145][web:146][web:152]
+- Focus: Prompt and tool design for long‑context analysis, narrative feature extraction, and structured comparison across multiple works.[web:145][web:146]
+- Role: Designed and implemented the notebook, including data preparation, Gemini integration, and interpretation of results.[web:145]
+- Links: [Novel Analysis with Gemini (Kaggle notebook)](https://www.kaggle.com/code/horsearcher/novel-analysis-with-gemini)[web:145]
+
 
 ### Operation Alpine Recovery
 
 A proposal for an armasuisse idea competition to address submerged military munitions in Swiss Alpine lakes. It outlined a phased, environmentally responsible concept using high‑resolution mapping, underwater robotics, and controlled encapsulation to minimize ecological impact. The framework was intended to inform future feasibility studies and pilot projects and drew preliminary interest from Canadian survey and robotics partners.
 
 - Why it matters: Shows how technical framing and scenario design can help address slow‑burn environmental hazards and high‑stakes remediation.
-- Role: Team Lead
+- Role: Project Lead (concept, architecture, and proposal author).
 - Links: [Operation Alpine Recovery Proposal (PDF)](/Operation_Alpine_Recovery_Expanded_Academic.pdf)
 
 ### Stage play: *The Golden Goose is Near*
@@ -74,7 +85,8 @@ Stage play work supported by AI for dramaturgy and iteration.
 
 ## Work and research
 
-- Previously worked as a Software Engineer on the AI-driven "Project DOCENT" at Simon Fraser University (1989-1991), implementing graphical knowledge representation in Prolog.
+My interest in AI predates the current deep learning wave and runs alongside ongoing backend engineering work:
+- Previously worked as a Software Engineer on the AI driven "Project DOCENT" at Simon Fraser University (1989-1991), implementing graphical knowledge representation in Prolog.
 - Completed BlueDot Impact's "Technical AI Safety" and "Intro to Transformative AI" courses.
 - Ongoing work on backend resilience, caching, and verification patterns.
 
