@@ -9,7 +9,7 @@ I’m David F. Dumaresq (Dave), a senior software engineer transitioning 30+ yea
 
 ## Current work
 
-At **EducationPlannerBC**, I help improve and maintain services that connect people to education and career opportunities through information, support, and technology.[page:0] The site is home to B.C.’s provincial post-secondary application service and resources that let students explore programs, admission requirements, and financial aid, and apply to any of the 25 public post-secondary institutions in the province.[page:0] On the API team, I focus on backend services that support these application and information flows.
+At **EducationPlannerBC**, I help improve and maintain services that connect people to education and career opportunities through information, support, and technology. The site is home to B.C.’s provincial post-secondary application service and resources that let students explore programs, admission requirements, and financial aid, and apply to any of the 25 public post-secondary institutions in the province. On the API team, I focus on backend services that support these application and information flows.
 
 Separately from my work at EPBC, I pursue projects in AI safety, including AI agent fingerprinting, evaluation tooling, and related research collaborations.
 
