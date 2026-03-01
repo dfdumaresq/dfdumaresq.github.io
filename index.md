@@ -104,4 +104,4 @@ feel free to reach out.
 
 - Email: [dave@duvon.org](mailto:dave@duvon.org)
 - GitHub: [dfdumaresq](https://github.com/dfdumaresq)
-- LinkedIn: [davedumaresq](https://www.linkedin.com/in/davedumaresq/)
+- LinkedIn: [davedumaresq](https://www.linkedin.com/in/dave-dumaresq/)
