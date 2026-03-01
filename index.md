@@ -102,6 +102,6 @@ feel free to reach out.
 
 ## Contact and links
 
-- Email: [dave@duvon.org](mailto:dave@duvon.org)
+- Email: [dfdumaresq@gmail.com](mailto:dfdumaresq@gmail.com)
 - GitHub: [dfdumaresq](https://github.com/dfdumaresq)
 - LinkedIn: [davedumaresq](https://www.linkedin.com/in/dave-dumaresq/)
