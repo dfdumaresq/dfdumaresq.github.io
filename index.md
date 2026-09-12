@@ -5,7 +5,9 @@ title: "Home"
 
 # David F. Dumaresq
 
-I’m David F. Dumaresq (Dave), a senior software engineer transitioning 30+ years of experience—from 1980s expert systems to modern provincial infrastructure—into technical AI safety and alignment. I currently work on the API team at EducationPlannerBC and am a member of the faculty association at Simon Fraser University. My independent work focuses on AI steerability, agent fingerprinting, model evaluations, and governance tooling, building on decades of experience designing and operating real‑world systems.
+I’m David F. Dumaresq (Dave), an API engineer at EducationPlannerBC and an independent technical founder building verifiable, auditable AI systems for high-stakes environments. My work combines more than 30 years of software engineering—from early expert systems to modern provincial digital infrastructure—with current work on AI-agent identity, provenance, behavioral evaluation, and governance tooling.
+
+My independent AI-safety projects are separate from my employment at EducationPlannerBC and do not represent the views, systems, or initiatives of EducationPlannerBC or the Province of British Columbia.
 
 ## Current work
 
